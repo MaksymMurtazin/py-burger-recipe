@@ -11,5 +11,5 @@ class OneOf:
 
 
 class BurgerRecipe:
-    def __init__(self):
+    def __init__(self, buns: int, cheese: int, tomatoes: int, cutlets: int, eggs: int, sauce: str) -> None:
         pass
